@@ -1,0 +1,17 @@
+*{
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body{
+    background-color: #4e4a4a;
+}
+.liItems {
+    font-size: 24px;
+    color: #272074;
+}
+.fa-ban {
+    margin-left: 10px;
+    color: #570207;
+    cursor: pointer;
+}
